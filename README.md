@@ -1,7 +1,8 @@
 # MyProfileOnDjango
 
 Для запуска проекта на другом устройстве нужно:
-1. Клонировать репозиторий к себе на устройство `git clone https://github.com/MrSmIlEyar/MyProfileOnDjango.git`
+1. Клонировать репозиторий к себе на устройство 
+`git clone https://github.com/MrSmIlEyar/MyProfileOnDjango.git`
 2. Установить необходимые библиотеки, если они не установились автоматически (все необходимые к установке библиотеки находятся в файле requirements.txt)
 3. Перейти через терминал в папку myprofile `cd myprofile`
 4. Запустить сервер `python manage.py runserver` 
